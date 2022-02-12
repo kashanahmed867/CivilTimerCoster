@@ -1,0 +1,13 @@
+C:\Users\Kashan\source\repos\CivilTimerCoster\bin\Debug\netcoreapp3.1\CivilTimerCoster.exe
+C:\Users\Kashan\source\repos\CivilTimerCoster\bin\Debug\netcoreapp3.1\CivilTimerCoster.deps.json
+C:\Users\Kashan\source\repos\CivilTimerCoster\bin\Debug\netcoreapp3.1\CivilTimerCoster.runtimeconfig.json
+C:\Users\Kashan\source\repos\CivilTimerCoster\bin\Debug\netcoreapp3.1\CivilTimerCoster.runtimeconfig.dev.json
+C:\Users\Kashan\source\repos\CivilTimerCoster\bin\Debug\netcoreapp3.1\CivilTimerCoster.dll
+C:\Users\Kashan\source\repos\CivilTimerCoster\bin\Debug\netcoreapp3.1\CivilTimerCoster.pdb
+C:\Users\Kashan\source\repos\CivilTimerCoster\obj\Debug\netcoreapp3.1\CivilTimerCoster.csprojAssemblyReference.cache
+C:\Users\Kashan\source\repos\CivilTimerCoster\obj\Debug\netcoreapp3.1\CivilTimerCoster.csproj.CoreCompileInputs.cache
+C:\Users\Kashan\source\repos\CivilTimerCoster\obj\Debug\netcoreapp3.1\CivilTimerCoster.AssemblyInfoInputs.cache
+C:\Users\Kashan\source\repos\CivilTimerCoster\obj\Debug\netcoreapp3.1\CivilTimerCoster.AssemblyInfo.cs
+C:\Users\Kashan\source\repos\CivilTimerCoster\obj\Debug\netcoreapp3.1\CivilTimerCoster.dll
+C:\Users\Kashan\source\repos\CivilTimerCoster\obj\Debug\netcoreapp3.1\CivilTimerCoster.pdb
+C:\Users\Kashan\source\repos\CivilTimerCoster\obj\Debug\netcoreapp3.1\CivilTimerCoster.genruntimeconfig.cache
